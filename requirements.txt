@@ -19,4 +19,4 @@ streamlit-option-menu
 millify
 pingouin
 jupyterlab
-numpy==1.24.4
+numpy==1.38.0
